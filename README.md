@@ -28,7 +28,7 @@ Here is an example of the bigPx effect:
 
 1. Install Processing from [processing.org](https://processing.org/)
 2. Install the Video library through Processing's Contribution Manager
-3. Open ASCII.pde in Processing and run the sketch
+3. Open bigPx.pde in Processing and run the sketch
 
 ## How it works
 
